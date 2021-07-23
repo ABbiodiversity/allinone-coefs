@@ -1,0 +1,14 @@
+Variable,Definition
+AHM,annual heat moisture index
+MCMT,mean cold month temperature
+MAT,mean annual temperature
+MAP,mean annual precipitation
+FFP,frost-free period
+PET,potential evapotranspiration
+MWMT,mean warm month temperature
+pAspen,probability of Aspen tremuloides occurrence based on bioclimatic suitability
+pWater,proportion of open water
+NSR1,natural region and subregion indicators
+PeaceRiver,indicators for the PeaceRiver River region
+wN,model averaging weight for the northern models
+
